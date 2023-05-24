@@ -1,0 +1,10 @@
+#container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+/* input{
+    border-color: rgb(220, 81, 81);
+} */
